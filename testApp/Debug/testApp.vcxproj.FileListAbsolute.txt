@@ -1,0 +1,5 @@
+D:\all_for_lab\CHM\testApp\testApp\Debug\testApp.vcxproj.AssemblyReference.cache
+D:\all_for_lab\CHM\testApp\testApp\Debug\testApp.MyForm.resources
+D:\all_for_lab\CHM\testApp\testApp\Debug\testApp.vcxproj.GenerateResource.cache
+D:\all_for_lab\CHM\testApp\testApp\Debug\testApp.task.resources
+D:\all_for_lab\CHM\testApp\testApp\Debug\testApp.methods.resources
